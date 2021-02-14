@@ -1,3 +1,6 @@
 compile.sh
 run.sh
 bin/*
+/.idea/
+/out/
+/Programming_Technology_8.iml
