@@ -2,7 +2,7 @@
 ### Task 9. Synchronized.
 >Write a program that results in a (**deadlock**) situation.
 
-#### dditional task
+#### Additional task
 > **[Reader-Writer]** Implement a program that calculates statistics on the use of words in the given text files. The program receives a list of text files as command line parameters. Each file must be processed in a separate thread. To count the number of unique words, a common **HashMap** is used for all threads (key - word, value - number of uses). 
 ---
 ### Задание 9. Synchronized.
